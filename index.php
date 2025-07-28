@@ -681,6 +681,10 @@ HPL, Edging, Karpet, Kayu, Triplek, Busa, PU/EVA, Logam, Plastik, Karet, Formika
     <i class="fab fa-whatsapp"></i> Chat via WhatsApp
   </a>
 
+    <a>  <script src="https://cdn.botpress.cloud/webchat/v3.2/inject.js" defer></script>
+<script src="https://files.bpcontent.cloud/2025/07/27/11/20250727112935-9FDJZTB0.js" defer></script>
+</a>
+
   </main>
 
   <footer id="footer" class="footer">
